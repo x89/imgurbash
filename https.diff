@@ -1,0 +1,4 @@
+94a95
+> 	url=$(echo $url | sed -r 's/http/https/')
+95a97
+> 	deleteurl=$(echo $deleteurl | sed -r 's/http/https/')
